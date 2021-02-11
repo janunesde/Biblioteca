@@ -1,0 +1,136 @@
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/appsettings.json
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.exe
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.deps.json
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.runtimeconfig.json
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.runtimeconfig.dev.json
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.pdb
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.Views.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.Views.pdb
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.csprojAssemblyReference.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.csproj.CoreCompileInputs.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorAssemblyInfo.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorAssemblyInfo.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.AssemblyInfoInputs.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.AssemblyInfo.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.TagHelpers.input.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.TagHelpers.output.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorCoreGenerate.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Emprestimo/Cadastro.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Emprestimo/Edicao.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Emprestimo/Listagem.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Livro/Cadastro.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Livro/Edicao.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Livro/Listagem.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Livro/_FormCadastro.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorTargetAssemblyInfo.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorTargetAssemblyInfo.cs
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.Views.pdb
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.csproj.CopyComplete
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/staticwebassets/Biblioteca.StaticWebAssets.Manifest.cache
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/staticwebassets/Biblioteca.StaticWebAssets.xml
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.dll
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.pdb
+D:/VS Code Projects/net-core-projects/Biblioteca/netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.genruntimeconfig.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/appsettings.json
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.deps.json
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.runtimeconfig.json
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.runtimeconfig.dev.json
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.pdb
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.Views.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Biblioteca.Views.pdb
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.csprojAssemblyReference.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.AssemblyInfoInputs.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.AssemblyInfo.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.csproj.CoreCompileInputs.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorAssemblyInfo.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorAssemblyInfo.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.TagHelpers.input.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.TagHelpers.output.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorCoreGenerate.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Emprestimo/Cadastro.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Emprestimo/Edicao.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Emprestimo/Listagem.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Livro/Cadastro.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Livro/Edicao.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Livro/Listagem.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Livro/_FormCadastro.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorTargetAssemblyInfo.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.RazorTargetAssemblyInfo.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.Views.pdb
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.csproj.CopyComplete
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/staticwebassets/Biblioteca.StaticWebAssets.Manifest.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/staticwebassets/Biblioteca.StaticWebAssets.xml
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.pdb
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Biblioteca.genruntimeconfig.cache
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/NetTopologySuite.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.NetTopologySuite.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/xunit.abstractions.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/xunit.assert.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/xunit.core.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/EFCoreMySqlNetTopologySuite.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Login/Cadastro.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Login/Edicao.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Login/Listagem.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Login/_FormCadastro.cshtml.g.cs
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/scopedcss/bundle/Biblioteca.styles.css
+/root/websenac/uc007/Netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Home/Erro.cshtml.g.cs
